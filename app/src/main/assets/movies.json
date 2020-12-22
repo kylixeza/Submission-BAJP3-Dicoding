@@ -1,0 +1,105 @@
+{
+  "result": [
+    {
+      "movieId" : 1,
+      "movieTitle": "Alita: Battle Angel",
+      "movieDescription": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+      "movieRelease": "14/02/2019",
+      "movieGenre"  : "Action, Science Fiction, Adventure",
+      "movieDuration" : "2 hours 2 minutes",
+      "movieRating" : "71%",
+      "moviePoster" : "movie_alita"
+    },
+    {
+      "movieId" : 2,
+      "movieTitle": "Aquaman",
+      "movieDescription": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "movieRelease": "14/02/2019",
+      "movieGenre" : "Action, Adventure, Fantasy ",
+      "movieDuration" : "2 hours 24 minutes",
+      "movieRating" : "69%",
+      "moviePoster" : "movie_aquaman"
+
+    },
+    {
+      "movieId" : 3,
+      "movieTitle": "Bohemian Rhapsody",
+      "movieDescription": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "movieRelease" : "02/11/2018",
+      "movieGenre" : "Drama, Music ",
+      "movieDuration" : "16/11/2018",
+      "movieRating" : "81%",
+      "moviePoster" : "movie_bohemian"
+    },
+    {
+      "movieId" : 4,
+      "movieTitle": "Fantastic Beasts: The Crimes of Grindelwald",
+      "movieDescription": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+      "movieRelease" : "16/11/2018",
+      "movieGenre" : "Adventure, Fantasy, Drama",
+      "movieDuration" : "2 hours 14 minutes",
+      "movieRating" : "69%",
+      "moviePoster" : "movie_crimes"
+    },
+    {
+      "movieId" : 5,
+      "movieTitle": "Glass",
+      "movieDescription": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "movieRelease" : "18/01/2019",
+      "movieGenre" : "Thriller, Drama, Science Fiction",
+      "movieDuration" : "2 hours 9 minutes",
+      "movieRating" : "66%",
+      "moviePoster" : "movie_glass"
+    },
+    {
+      "movieId" : 6,
+      "movieTitle": "How to Train Your Dragon: The Hidden World",
+      "movieDescription": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "movieRelease" : "22/02/2019",
+      "movieGenre" : "Animation, Family, Adventure",
+      "movieDuration" : "1 hour 44 minutes",
+      "movieRating" : "78%",
+      "moviePoster" : "movie_how_to_train"
+    },
+    {
+      "movieId" : 7,
+      "movieTitle": "Avengers: Infinity War",
+      "movieDescription": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "movieRelease" : "27/04/2018",
+      "movieGenre" : "Adventure, Action, Science Fiction",
+      "movieDuration" : "2 hours 29 minutes",
+      "movieRating" : "83%",
+      "moviePoster" : "movie_infinity_war"
+    },
+    {
+      "movieId" : 8,
+      "movieTitle": "Overlord",
+      "movieDescription": "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+      "movieRelease" : "9/11/2018",
+      "movieGenre" : "Horror, War, Science Fiction",
+      "movieDuration" : "1 hour 50 minutes",
+      "movieRating" : "67%",
+      "moviePoster" : "movie_overlord"
+    },
+    {
+      "movieId" : 9,
+      "movieTitle": "Ralph Breaks the Internet",
+      "movieDescription": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, \"Sugar Rush.\" In way over their heads, Ralph and Vanellope rely on the citizens of the internet -- the netizens -- to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.\n",
+      "movieRelease" : "21/11/2018",
+      "movieGenre" : "Family, Animation, Comedy, Adventure",
+      "movieDuration" : "1 hour 52 minutes",
+      "movieRating" : "72%",
+      "moviePoster" : "movie_ralph"
+    },
+    {
+      "movieId" : 10,
+      "movieTitle": "Spider-Man: Into the Spider-Verse",
+      "movieDescription": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "movieRelease" : "14/12/2018",
+      "movieGenre" : "Action, Adventure, Animation, Science Fiction, Comedy",
+      "movieDuration" : "1 hour 57 minutes",
+      "movieRating" : "84%",
+      "moviePoster" : "movie_spiderman"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "movieId" : 1,
+  "movieTitle": "Alita: Battle Angel",
+  "movieDescription": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+  "movieRelease": "14/02/2019",
+  "movieGenre"  : "Action, Science Fiction, Adventure",
+  "movieDuration" : "2 hours 2 minutes",
+  "movieRating" : "71%",
+  "moviePoster" : "movie_alita"
+}

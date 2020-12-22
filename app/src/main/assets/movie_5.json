@@ -1,0 +1,10 @@
+{
+  "movieId" : 5,
+  "movieTitle": "Glass",
+  "movieDescription": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+  "movieRelease" : "18/01/2019",
+  "movieGenre" : "Thriller, Drama, Science Fiction",
+  "movieDuration" : "2 hours 9 minutes",
+  "movieRating" : "66%",
+  "moviePoster" : "movie_glass"
+}
