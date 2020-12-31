@@ -1,0 +1,54 @@
+  1. Menampilkan data main
+        Memastikan bottom_nav dalam keadaan tampil
+        Memastikan nav_movie dalam keadaan tampil
+        Memastikan rv_movie dalam keadaan tampil
+        Gulir rv_movie ke posisi terakhir
+  2. Menampilkan data movie
+        Memastikan rv_movie dalam keadaan tampil
+        Gulir rv_movie ke posisi terakhir
+  3. Menampilkan data movie
+        Memberikan tindakan klik pada data pertama rv_movie
+        Memastikan data pada tv_title, tv_release, tv_duration, dan tv_overview sesuai dengan data pertama pada rv_movie
+        Memberikan tindakan tekan balik menuju rv_movie
+        Memastikan  rv_movie dalam keadaan tampil
+        Memberikan tindakan kik pada data terakhir rv_movie
+        Memastikan data pada tv_title, tv_release, tv_duration, dan tv_overview sesuai dengan data terakhir pada rv_movie
+        Memberikan tindakan tekan balik menuju rv_movie
+  4. Menampilkan data tv show
+        Memastikan rv_tvShow dalam keadaan tampil
+        Gulir rv_tvShow ke posisi terakhir
+  5. Menampilkan data tv show
+        Memberikan tindakan klik pada data pertama rv_tvShow
+        Memastikan data pada tv_title, tv_release, tv_duration, dan tv_overview sesuai dengan data pertama pada rv_tvShow
+        Memberikan tindakan tekan balik menuju rv_tvShow
+        Memastikan  rv_tvShow dalam keadaan tampil
+        Memberikan tindakan kik pada data terakhir rv_tvShow
+        Memastikan data pada tv_title, tv_release, tv_duration, dan tv_overview sesuai dengan data terakhir pada rv_tvShow
+        Memberikan tindakan tekan balik menuju rv_tvShow
+  6. Menambahkan data favorit movie
+        Memberikan tindakan klik pada data pertama rv_movie
+        Memberikan tindakan klik pada favorite_menu
+        Memberikan tindakan tekan balik menuju rv_movie
+        Memberikan tindakan klik pada data terakhir rv_movie
+        Memberikan tindakan klik pada favorite_menu
+  7. Menampilkan data favorit movie
+        Memastikan rv_favorite_movie dalam keadaan tampil
+        Memberikan tindakan klik pada data pertama rv_favorite_movie
+        Memastikan data pada tv_title sesuai dengan data pertama pada rv_favorite_movie
+        Memberikan tindakan tekan balik menuju rv_favorite_movie
+        Memberikan tindakan klik pada data kedua rv_favorite_movie
+        Memberikan tindakan tekan balik menuju rv_favorite_movie
+  8. Menambahkan data favorit tv show
+        Memberikan tindakan klik pada data pertama rv_tvShow
+        Memberikan tindakan klik pada favorite_menu
+        Memberikan tindakan tekan balik menuju rv_tvShow
+        Memberikan tindakan klik pada data terakhir rv_tvShow
+        Memberikan tindakan klik pada favorite_menu
+  9. Menampilkan data favorit tv show
+        Memberikan tindakan kilik pada teks bernama ACARA TV atau TV SHOW
+        Memastikan rv_favorite_tv_show dalam keadaan tampil
+        Memberikan tindakan klik pada data pertama rv_favorite_tv_show
+        Memastikan data pada tv_title sesuai dengan data pertama pada rv_favorite_tv_show
+        Memberikan tindakan tekan balik menuju rv_favorite_tv_show
+        Memberikan tindakan klik pada data kedua rv_favorite_tv_show
+        Memberikan tindakan tekan balik menuju rv_favorite_tv_show
