@@ -7,8 +7,8 @@ Submission BAJP (Belajar Android Jetpack Pro) ke 3(final) Dicoding
 
 <p>Another BAJP's Submissions:</p>
 <ol>
-  <li><a href="https://github.com/KylixEza/Submission-BAJP1-Dicoding">Submission BAJP 1a></li>
-  <li><a href="https://github.com/KylixEza/Submission-BAJP2-Dicoding">Submission BAJP 2a></li>
+  <li><a href="https://github.com/KylixEza/Submission-BAJP1-Dicoding">Submission BAJP 1</a></li>
+  <li><a href="https://github.com/KylixEza/Submission-BAJP2-Dicoding">Submission BAJP 2</a></li>
 </ol>
 
 <p>Custom android UI: </p>
